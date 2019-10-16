@@ -285,11 +285,7 @@
 
     "quote":"He who is not courageous enough to take risks will accomplish nothing in life.",
     "speaker":"Muhammad Ali"
-
-
-
   },
-
   {
     "quote" : "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
     "speaker" : "David Leinweber"
@@ -331,6 +327,10 @@
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
     "speaker":"Haruki Murakami"
+  },
+  {
+    "quote": "When you have a dream, you've got to grab it and never let it go.",
+    "speaker":"Carol Burnett"
   }
 
 ]
